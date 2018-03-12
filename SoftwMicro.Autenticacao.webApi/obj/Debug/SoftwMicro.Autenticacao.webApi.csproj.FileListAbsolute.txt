@@ -1,0 +1,2 @@
+C:\Users\netob\source\repos\Autenticação WebApi\SCAFwebApiGit\SoftwMicro.Autenticacao.webApi\SoftwMicro.Autenticacao.webApi\obj\Debug\SoftwMicro.Autenticacao.webApi.csprojResolveAssemblyReference.cache
+C:\Users\netob\source\repos\Autenticação WebApi\SCAFwebApiGit\SoftwMicro.Autenticacao.webApi\SoftwMicro.Autenticacao.webApi\obj\Debug\SoftwMicro.Autenticacao.webApi.csproj.CoreCompileInputs.cache
