@@ -1,2 +1,2 @@
-# SoftwMicroAutentica-oWebApi
-Sistema de Autenticação WebApi
+# SoftwMicroAutenticaçãoWebApi
+Sistema de Autenticação via WebApi.
